@@ -2,7 +2,7 @@
 name = "elephant"
 version = "0.1.0"
 description = "Debate app that formats spreadsheets. It's slow and big because it's in Python, but it works and is smart, just like an elephant."
-authors = ["Your Name <you@example.com>"]
+authors = ["Andrew Li <andrewli@u.northwestern.edu>"]
 license = "MIT"
 readme = "README.md"
 
