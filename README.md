@@ -4,7 +4,7 @@ Fork from the `dev` branch only. Merges to `main` are pushes to prod, which for 
 ## Tech used
 Python, Taskfile, Poetry
 
-##Poetry Usage for This Package
+## Poetry Usage for This Package
 When using this package at all:
 `poetry shell`
 Run `deactivate` when context switching.
