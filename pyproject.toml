@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "elephant"
+version = "0.1.0"
+description = "Debate app that formats spreadsheets. It's slow and big because it's in Python, but it works and is smart, just like an elephant."
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+polars = "^0.19.12"
+numpy = "^1.26.1"
+pandas = "^2.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
