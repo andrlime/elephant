@@ -11,6 +11,8 @@ python = ">=3.11,<3.13"
 polars = "^0.19.12"
 numpy = "^1.26.1"
 pandas = "^2.1.2"
+pytest = "^7.4.3"
+pytest-cov = "^4.1.0"
 
 
 [build-system]

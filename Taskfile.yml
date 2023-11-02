@@ -1,0 +1,12 @@
+version: '3'
+
+tasks:
+  test:
+    dir: './'
+    cmds:
+      - poetry run pytest --cov 
+  init:
+    dir: './'
+    cmds:
+      - poetry install
+
